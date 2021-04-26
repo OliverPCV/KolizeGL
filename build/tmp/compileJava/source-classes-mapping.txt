@@ -1,7 +1,9 @@
-cz/educanet/utils/FileUtils.java
- cz.educanet.utils.FileUtils
 cz/educanet/Shaders.java
  cz.educanet.Shaders
+cz/educanet/utils/FileUtils.java
+ cz.educanet.utils.FileUtils
+cz/educanet/models/Square.java
+ cz.educanet.models.Square
 cz/educanet/Main.java
  cz.educanet.Main
 cz/educanet/Game.java
